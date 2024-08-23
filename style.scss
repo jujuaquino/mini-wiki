@@ -1,0 +1,25 @@
+// seletor{
+// propriedade:valor;
+// }
+
+// primeira coisa a fazer no arquivo de style é o reset 
+*{
+ margin: 0; //espaço de fora da tag
+padding: 0; // espaço de dentro da tag
+box-sizing: border-box; //é utilizada para alterar o cálculo da largura e altura
+}
+
+body{
+    background-color: rgb(86, 0, 0); //cor de fundo
+}
+
+img{
+        width: 300px; //largura
+        border-radius: 20px; //
+}
+
+h1{
+        color: rgb(255, 255, 255);
+        //red, green, blue, 0 a 255
+    
+}
