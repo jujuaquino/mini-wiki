@@ -19,7 +19,22 @@ img{
 }
 
 h1{
-        color: rgb(255, 255, 255);
+        //font family 
+        font-family:sans-serif;
+        color: rgb(255, 0, 0);
         //red, green, blue, 0 a 255
     
+}
+//no index.html nos vamos nomear  a tag class=
+// para chamar uma class aqui no style precisamos usar o ".nomeDaClass"
+.tituloMusicas{ 
+        //propriedade:valor;
+        color: red;
+}
+ol{
+        //COR HEXADECIMAL 
+        // SEGUIDA DE 3 PARES, CADA PAR É REFERENTE AO RGB, 00, ff
+       // background-color: #30110d;
+background-color: rgba(165, 42, 42, 0.372);
+color: white;
 }

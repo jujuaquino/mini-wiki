@@ -14,5 +14,15 @@ img {
 }
 
 h1 {
-  color: rgb(255, 255, 255);
+  font-family: sans-serif;
+  color: rgb(255, 0, 0);
+}
+
+.tituloMusicas {
+  color: red;
+}
+
+ol {
+  background-color: rgba(165, 42, 42, 0.372);
+  color: white;
 }/*# sourceMappingURL=style.css.map */
